@@ -1,0 +1,10 @@
+/[Ll]ibrary/
+/[Oo]bj/
+/[?l]ogs/
+/[Vv][Ss]/
+.vs/
+ExportedObj/
+.mono/
+*.csproj
+*.sln
+*.suo
