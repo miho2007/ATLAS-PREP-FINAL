@@ -1,14 +1,200 @@
 fileFormatVersion: 2
 guid: 7b4b716855fd91f46a2822685bff404a
 ModelImporter:
-  serializedVersion: 24200
+  serializedVersion: 24501
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_Front_Texture
+    second: {fileID: 2100000, guid: a0c5eadac8e71644ea466db42384d9d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_Spine_Texture
+    second: {fileID: 2100000, guid: bd1e53282a3bf0641b1dbf04e6467c28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BooksRow
+    second: {fileID: 2100000, guid: 026ea99dbcff4df49820dda53f79075a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BooksRow2
+    second: {fileID: 2100000, guid: 1d6d62cbc73ec664ba2a55db97e93399, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BooksRow3
+    second: {fileID: 2100000, guid: b4f25fd51d9bc7a4aa1342590aba2ce5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BrownGold2
+    second: {fileID: 2100000, guid: 236e03745f5a69649bf953bf95d8f439, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BrownWood
+    second: {fileID: 2100000, guid: 41205bbaabe8ee44abee2df6874a1e8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Candle
+    second: {fileID: 2100000, guid: 6e84818f831590840bf9539df4714fa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CandleStand
+    second: {fileID: 2100000, guid: 0eaf177f71a9d01468ceb40e7aaee3ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CouchUniversalFabric
+    second: {fileID: 2100000, guid: 3af21280652c00044832e0e96f1dab4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Curtain
+    second: {fileID: 2100000, guid: d1b66a4308eaf09499ec412e34cb51cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric
+    second: {fileID: 2100000, guid: f70e831659df0774a970e65f22adf4db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: c2b53d4e43d2b5d49bbc3ae21a0e46e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GrassWall
+    second: {fileID: 2100000, guid: 69bca529126cc9b46bc4ebd84c0e4297, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GrassWallLight
+    second: {fileID: 2100000, guid: f3da07d7cce8c8c429abdd4de8159ec6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light
+    second: {fileID: 2100000, guid: b8645afbe03478f44b6c4871b5e5452b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lit
+    second: {fileID: 2100000, guid: 6fd785268df676f439bef20f1db2f174, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2147445262
+    second: {fileID: 2100000, guid: 1cbfe889e8d20bf499e67d8747f8ed1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_0
+    second: {fileID: 2100000, guid: 006b64c1da88fb64fbe65bce75bdf8d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mirror
+    second: {fileID: 2100000, guid: 9099f11bb58520f4b8eb52d22cde7cf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MirrorFrame
+    second: {fileID: 2100000, guid: 0ea2d90b4638aef43aa47d09b42df159, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Onyx
+    second: {fileID: 2100000, guid: 8f4b2a2972407a84c912cf5ff5651814, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pillow
+    second: {fileID: 2100000, guid: 2eeb5a66b0aa13c4ea12d5a77c939aae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pillow2.001
+    second: {fileID: 2100000, guid: c3c639fb41fa8d94bba43f4b49e9ee7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls
+    second: {fileID: 2100000, guid: 6d5d1fc01b4222e4c8bc86934db81192, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Washingtonia filifera bark 1
+    second: {fileID: 2100000, guid: 12e74038bcc058c4990b267d6fd993e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Washingtonia filifera bark 2_
+    second: {fileID: 2100000, guid: 208483601ae5aa945ae98cd389febad6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Washingtonia filifera leaf
+    second: {fileID: 2100000, guid: e20c0da4a14af6b4987551ccd8d1099b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Washingtonia filifera stalk
+    second: {fileID: 2100000, guid: 10aed5bf2507ff54a967286caae3cecf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Washingtonia filifera trunk
+    second: {fileID: 2100000, guid: 712fdfdc67b350a48abb1688d1f86fe9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window
+    second: {fileID: 2100000, guid: 94d07ef5dac1eeb4aa2f9445f5d16402, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowFrame
+    second: {fileID: 2100000, guid: 004e0ef750321ef46ad0378ece594afa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey satin.002
+    second: {fileID: 2100000, guid: f91ee23199b0c664db2b265957380747, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ground 1.002
+    second: {fileID: 2100000, guid: 93bc03c8d4746e448af02786b762a114, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ground 2.002
+    second: {fileID: 2100000, guid: 3c16b21292d888f4a863f763f265fb1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: legs
+    second: {fileID: 2100000, guid: d2990f56651c6804c8133a5520e1ace8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: terrazzo.002
+    second: {fileID: 2100000, guid: 00068abd6fdf8fb4a9c13c22e1bc65cc, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
     materialSearch: 1
     materialLocation: 1
+    searchTexturesGlobally: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -59,6 +245,8 @@ ModelImporter:
     generateMeshLods: 0
     meshLodGenerationFlags: 0
     maximumMeshLod: -1
+    importUVs: -1
+    importVertexColors: 1
     meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
@@ -78,6 +266,7 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+    calculateBlendshapeNormalsDeltaFromImportedNormals: 1
   referencedClips: []
   importAnimation: 1
   humanDescription:
