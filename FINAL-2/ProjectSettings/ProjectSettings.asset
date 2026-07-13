@@ -164,7 +164,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Android: com.unity.xrlab_conference_room_v1.vr
+    Android: com.unity.xrlab_conference_room_v2.vr
     Standalone: com.Unity-Technologies.VR-Template
   buildNumber:
     Standalone: 0
